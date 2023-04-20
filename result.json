@@ -1,0 +1,371 @@
+{
+  "id": "cb97a283-94ec-4eb9-b330-a72a01be6232",
+  "version": "1",
+  "courseVersioneds": [
+    {
+      "courseId": "cb97a283-94ec-4eb9-b330-a72a01be6232",
+      "revision": 10,
+      "internalNote": "Internal Note",
+      "parts": [
+        {
+          "courseId": "cb97a283-94ec-4eb9-b330-a72a01be6232",
+          "partId": "9a149bc9-3136-4f38-a519-e72df24039de",
+          "courseRevision": 10,
+          "partRevision": 2,
+          "partVersioned": {
+            "partId": "9a149bc9-3136-4f38-a519-e72df24039de",
+            "revision": 2,
+            "title": "Part Title revision 2",
+            "sections": [
+              {
+                "partId": "9a149bc9-3136-4f38-a519-e72df24039de",
+                "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                "partRevision": 2,
+                "sectionRevision": 2,
+                "sectionVersioned": {
+                  "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                  "revision": 2,
+                  "title": "Section Title revision 2",
+                  "subsections": [
+                    {
+                      "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                      "subsectionId": "05cfbac0-4a33-461c-a05c-fc86f9d1eeb6",
+                      "sectionRevision": 2,
+                      "subsectionRevision": 4,
+                      "sectionVersioned": {
+                        "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                        "revision": 2,
+                        "title": "Section Title revision 2",
+                        "subsections": [
+                          {
+                            "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                            "subsectionId": "05cfbac0-4a33-461c-a05c-fc86f9d1eeb6",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "05cfbac0-4a33-461c-a05c-fc86f9d1eeb6",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          },
+                          {
+                            "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                            "subsectionId": "f8c744bd-dd10-49e8-a2d9-7821ce271b44",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "f8c744bd-dd10-49e8-a2d9-7821ce271b44",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                      "subsectionId": "f8c744bd-dd10-49e8-a2d9-7821ce271b44",
+                      "sectionRevision": 2,
+                      "subsectionRevision": 4,
+                      "sectionVersioned": {
+                        "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                        "revision": 2,
+                        "title": "Section Title revision 2",
+                        "subsections": [
+                          {
+                            "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                            "subsectionId": "05cfbac0-4a33-461c-a05c-fc86f9d1eeb6",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "05cfbac0-4a33-461c-a05c-fc86f9d1eeb6",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          },
+                          {
+                            "sectionId": "4cb71bb0-cb28-4c39-9d32-a99b69af1413",
+                            "subsectionId": "f8c744bd-dd10-49e8-a2d9-7821ce271b44",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "f8c744bd-dd10-49e8-a2d9-7821ce271b44",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "partId": "9a149bc9-3136-4f38-a519-e72df24039de",
+                "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                "partRevision": 2,
+                "sectionRevision": 2,
+                "sectionVersioned": {
+                  "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                  "revision": 2,
+                  "title": "Section Title revision 2",
+                  "subsections": [
+                    {
+                      "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                      "subsectionId": "6def7ae1-479d-418c-b7cb-ba3f94ef145d",
+                      "sectionRevision": 2,
+                      "subsectionRevision": 4,
+                      "sectionVersioned": {
+                        "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                        "revision": 2,
+                        "title": "Section Title revision 2",
+                        "subsections": [
+                          {
+                            "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                            "subsectionId": "6def7ae1-479d-418c-b7cb-ba3f94ef145d",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "6def7ae1-479d-418c-b7cb-ba3f94ef145d",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          },
+                          {
+                            "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                            "subsectionId": "f88a564a-f60a-4234-960c-fa7ba501707e",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "f88a564a-f60a-4234-960c-fa7ba501707e",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                      "subsectionId": "f88a564a-f60a-4234-960c-fa7ba501707e",
+                      "sectionRevision": 2,
+                      "subsectionRevision": 4,
+                      "sectionVersioned": {
+                        "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                        "revision": 2,
+                        "title": "Section Title revision 2",
+                        "subsections": [
+                          {
+                            "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                            "subsectionId": "6def7ae1-479d-418c-b7cb-ba3f94ef145d",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "6def7ae1-479d-418c-b7cb-ba3f94ef145d",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          },
+                          {
+                            "sectionId": "95226d40-b1d8-4df5-8968-ebf999ee09ac",
+                            "subsectionId": "f88a564a-f60a-4234-960c-fa7ba501707e",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "f88a564a-f60a-4234-960c-fa7ba501707e",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "courseId": "cb97a283-94ec-4eb9-b330-a72a01be6232",
+          "partId": "10b07b26-ace0-4d40-8fbb-2c83094acd74",
+          "courseRevision": 10,
+          "partRevision": 2,
+          "partVersioned": {
+            "partId": "10b07b26-ace0-4d40-8fbb-2c83094acd74",
+            "revision": 2,
+            "title": "Part Title revision 2",
+            "sections": [
+              {
+                "partId": "10b07b26-ace0-4d40-8fbb-2c83094acd74",
+                "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                "partRevision": 2,
+                "sectionRevision": 2,
+                "sectionVersioned": {
+                  "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                  "revision": 2,
+                  "title": "Section Title revision 2",
+                  "subsections": [
+                    {
+                      "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                      "subsectionId": "8f44890d-2f35-4ca4-84e2-35bfa12733e9",
+                      "sectionRevision": 2,
+                      "subsectionRevision": 4,
+                      "sectionVersioned": {
+                        "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                        "revision": 2,
+                        "title": "Section Title revision 2",
+                        "subsections": [
+                          {
+                            "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                            "subsectionId": "8f44890d-2f35-4ca4-84e2-35bfa12733e9",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "8f44890d-2f35-4ca4-84e2-35bfa12733e9",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          },
+                          {
+                            "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                            "subsectionId": "f9f6d39f-176c-485d-8db3-309d64b428fe",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "f9f6d39f-176c-485d-8db3-309d64b428fe",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                      "subsectionId": "f9f6d39f-176c-485d-8db3-309d64b428fe",
+                      "sectionRevision": 2,
+                      "subsectionRevision": 4,
+                      "sectionVersioned": {
+                        "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                        "revision": 2,
+                        "title": "Section Title revision 2",
+                        "subsections": [
+                          {
+                            "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                            "subsectionId": "8f44890d-2f35-4ca4-84e2-35bfa12733e9",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "8f44890d-2f35-4ca4-84e2-35bfa12733e9",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          },
+                          {
+                            "sectionId": "99b4d7a3-86db-4387-9ea4-ef423bc7f2b7",
+                            "subsectionId": "f9f6d39f-176c-485d-8db3-309d64b428fe",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "f9f6d39f-176c-485d-8db3-309d64b428fe",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "partId": "10b07b26-ace0-4d40-8fbb-2c83094acd74",
+                "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                "partRevision": 2,
+                "sectionRevision": 2,
+                "sectionVersioned": {
+                  "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                  "revision": 2,
+                  "title": "Section Title revision 2",
+                  "subsections": [
+                    {
+                      "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                      "subsectionId": "4fed9b8a-674d-4417-bc56-6c3a0c8cbd5d",
+                      "sectionRevision": 2,
+                      "subsectionRevision": 4,
+                      "sectionVersioned": {
+                        "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                        "revision": 2,
+                        "title": "Section Title revision 2",
+                        "subsections": [
+                          {
+                            "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                            "subsectionId": "4fed9b8a-674d-4417-bc56-6c3a0c8cbd5d",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "4fed9b8a-674d-4417-bc56-6c3a0c8cbd5d",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          },
+                          {
+                            "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                            "subsectionId": "0fb5ec17-18d2-47be-af71-b41dbec6a241",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "0fb5ec17-18d2-47be-af71-b41dbec6a241",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                      "subsectionId": "0fb5ec17-18d2-47be-af71-b41dbec6a241",
+                      "sectionRevision": 2,
+                      "subsectionRevision": 4,
+                      "sectionVersioned": {
+                        "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                        "revision": 2,
+                        "title": "Section Title revision 2",
+                        "subsections": [
+                          {
+                            "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                            "subsectionId": "4fed9b8a-674d-4417-bc56-6c3a0c8cbd5d",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "4fed9b8a-674d-4417-bc56-6c3a0c8cbd5d",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          },
+                          {
+                            "sectionId": "ee3fb0bf-783a-4283-aceb-0ca9e3dac387",
+                            "subsectionId": "0fb5ec17-18d2-47be-af71-b41dbec6a241",
+                            "sectionRevision": 2,
+                            "subsectionRevision": 4,
+                            "subsectionVersioned": {
+                              "subsectionId": "0fb5ec17-18d2-47be-af71-b41dbec6a241",
+                              "revision": 4,
+                              "title": "Subsection Title revision 4"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

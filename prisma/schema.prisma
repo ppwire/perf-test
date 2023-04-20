@@ -1,0 +1,107 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Course {
+  id               String           @id
+  version          String
+  courseVersioneds CourseRevision[]
+}
+
+model CourseRevision {
+  courseId     String
+  revision     Int
+  internalNote String
+  course       Course               @relation(fields: [courseId], references: [id])
+  parts        CoursePartRelation[]
+
+  @@id([courseId, revision])
+}
+
+model Part {
+  id             String         @id
+  partVersioneds PartRevision[]
+}
+
+model PartRevision {
+  partId   String
+  revision Int
+  title    String
+  part     Part                  @relation(fields: [partId], references: [id])
+  courses  CoursePartRelation[]
+  sections PartSectionRelation[]
+
+  @@id([partId, revision])
+}
+
+model CoursePartRelation {
+  courseId        String
+  partId          String
+  courseVersioned CourseRevision? @relation(fields: [courseId, courseRevision], references: [courseId, revision])
+  courseRevision  Int
+  partVersioned   PartRevision?   @relation(fields: [partId, partRevision], references: [partId, revision])
+  partRevision    Int
+
+  @@id([courseId, partId, courseRevision])
+}
+
+model Section {
+  id                String            @id
+  sectionVersioneds SectionRevision[]
+}
+
+model SectionRevision {
+  sectionId   String
+  revision    Int
+  title       String
+  section     Section                     @relation(fields: [sectionId], references: [id])
+  parts       PartSectionRelation[]
+  subsections SectionSubsectionRelation[]
+
+  @@id([sectionId, revision])
+}
+
+model PartSectionRelation {
+  partId           String
+  sectionId        String
+  partVersioned    PartRevision?    @relation(fields: [partId, partRevision], references: [partId, revision])
+  partRevision     Int
+  sectionVersioned SectionRevision? @relation(fields: [sectionId, sectionRevision], references: [sectionId, revision])
+  sectionRevision  Int
+
+  @@id([partId, sectionId, partRevision])
+}
+
+model Subsection {
+  id                   String               @id
+  subsectionVersioneds SubsectionRevision[]
+}
+
+model SubsectionRevision {
+  subsectionId String
+  revision     Int
+  title        String
+  subsection   Subsection                  @relation(fields: [subsectionId], references: [id])
+  sections     SectionSubsectionRelation[]
+
+  @@id([subsectionId, revision])
+}
+
+model SectionSubsectionRelation {
+  sectionId           String
+  subsectionId        String
+  sectionVersioned    SectionRevision?    @relation(fields: [sectionId, sectionRevision], references: [sectionId, revision])
+  sectionRevision     Int
+  subsectionVersioned SubsectionRevision? @relation(fields: [subsectionId, subsectionRevision], references: [subsectionId, revision])
+  subsectionRevision  Int
+
+  @@id([sectionId, subsectionId, sectionRevision])
+}
